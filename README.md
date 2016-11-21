@@ -22,7 +22,7 @@ It then sends the data via ajax call. The azure server receives the request and 
 
 ![overview](https://raw.githubusercontent.com/taifuranwar/beetle-main-app/master/images/overview.JPG)
 
-It uses additional two libraries that resides in the server. Please refer to image synthesizer and beetle NN for more information
+It uses additional two libraries that resides in the server. Please refer to [image synthesizer](_https://github.com/taifuranwar/Beetle-image-synthesizer) and beetle NN for more information
 
 
 
